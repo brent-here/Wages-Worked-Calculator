@@ -1,2 +1,3 @@
 # Wages-Worked-Calculator
-I used java to create a wages worked calculator.
+II created this wage calculator to improve my Java skills. 
+It includes calculations for hours worked, hourly rate, gross pay, and taxes deducted.
